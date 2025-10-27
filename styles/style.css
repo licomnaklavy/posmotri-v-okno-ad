@@ -156,6 +156,7 @@ ol {
 
 .content__video-card-description-container {
   flex-grow: 1;
+  width: 196px;
 }
 
 .result__video-container {
@@ -221,6 +222,7 @@ ol {
   letter-spacing: 0%;
   line-clamp: 4;
   overflow: hidden;
+  text-overflow: ellipsis;
 }
 
 .visually-hidden {
